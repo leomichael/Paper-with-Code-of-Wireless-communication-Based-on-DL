@@ -119,6 +119,7 @@ TODO
 | Learning to optimize: Training deep neural networks for wireless resource management | [Haoran-S / DNN_WMMSE](https://github.com/Haoran-S/DNN_WMMSE) |
 | Implications of Decentralized Q-learning Resource Allocation in Wireless Networks | [wn-upf / decentralized_qlearning_resource_allocation_in_wns](https://github.com/wn-upf/decentralized_qlearning_resource_allocation_in_wns) |
 | Power of Deep Learning for Channel Estimation and Signal Detection in OFDM Systems | [haoyye/OFDM_DNN](https://github.com/haoyye/OFDM_DNN)        |
+| CsiGAN: Robust Channel State Information-based Activity Recognition with GANs | [CsiGAN](https://github.com/ChunjingXiao/CsiGAN)       |
 
 # "通信+DL"论文（无代码)/Paper List Without Code
 说明：论文主要来源于arxiv中[Signal Processing](https://arxiv.org/list/eess.SP/recent)和[Information Theory](https://arxiv.org/list/cs.IT/recent)
